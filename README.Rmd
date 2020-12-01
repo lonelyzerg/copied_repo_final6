@@ -1,0 +1,7 @@
+---
+output: github_document
+---
+
+# Implementation of Linear Regression and Related Statistics
+  
+The package contains basic functions to perform linear regression and obtain different statistics from the procedure.

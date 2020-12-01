@@ -1,0 +1,20 @@
+Package: LinearRegression
+Type: Package
+Title: Implementation of Linear Regression and Related Statistics
+Version: 0.1.0
+Authors@R: c(
+    person("Sunny", "Lee", email = "szl0146@auburn.edu", role = c("aut","cre")),
+    person("Uthman", "Kareem", role = "aut"),
+    person("Tianhang", "Lang", role = "aut")
+    )
+Maintainer: Sunny Lee <szl0146@auburn.edu>
+Description:  Basic functions and different statistics results of Linear regression
+License: GNU General Public License
+Imports: ggplot2 (>= 3.3.2), ggpubr (>= 0.4.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
